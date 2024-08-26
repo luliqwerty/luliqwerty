@@ -6,6 +6,6 @@
 - 😄 Pronouns: Li Lu
 - ⚡ Fun fact: I like take photos.
 
-<br>
 ![](https://komarev.com/ghpvc/?username=luliqwerty)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=luliqwerty)](https://github.com/ryo-ma/github-profile-trophy)
