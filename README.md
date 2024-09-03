@@ -8,8 +8,6 @@
 
 <div align='center'>
   
-  ![Profile](https://github-widgetbox.vercel.app/api/profile?username=luliqwerty&data=followers,repositories,stars,commits)
-
 ### luliqwerty 的 GitHub 奖杯
 <img src="https://github-profile-trophy.vercel.app/?username=luliqwerty" alt="luliqwerty's GitHub trophy" time="luliqwerty's GitHub trophy" />
 
