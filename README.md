@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luliqwerty
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C, cpp
+- 🌱 I’m currently learning Java, C
 - 😄 Pronouns: Li Lu
 - ⚡ Fun fact: I like take photos.
 
