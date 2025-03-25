@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Java, C
 - 😄 Pronouns: Li Lu
-- ⚡ Fun fact: I like take photos.
+- ⚡ Fun fact: I like photography.
 
 <div align='center'>
   
