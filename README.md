@@ -1,25 +1,52 @@
-- 👋 Hi, I’m @luliqwerty
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Java, C, Golang
-- ⚡ Fun fact: I like photography.
+- 👋 Hi, I'm @luliqwerty
+- 🎓 Student | Northeastern University - China
+- 📍 Chongqing, China
+- 🌱 **Open for Opportunities: Java Backend Development**
+- 💻 Currently leveling up in: **Java, C, Golang**
+- 📸 Fun fact: I love capturing moments through photography.
 
-<p>
-  <a href="https://wakatime.com/@1e58ad75-97b9-42c5-9eb7-8503e9a378be"><img src="https://wakatime.com/badge/user/1e58ad75-97b9-42c5-9eb7-8503e9a378be.svg" height="25px" alt="Total time coded since May 19 2024" /></a>
-  <a href="https://github.com/luliqwerty?tab=followers"> <img src="https://img.shields.io/github/followers/luliqwerty?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
+<br>
 
-  
-</p>
+### 🛠️ Tech Stack & Tools
+I'm dedicated to building robust backend systems. My technical focus includes:
 
+**Languages:** 
+![Java](https://img.shields.io/badge/Java-ED2532?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Backend Ecosystem:**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
+
+### 📊 Development Analytics
+*Total time coded since May 19 2024*
+
+<a href="https://wakatime.com/@1e58ad75-97b9-42c5-9eb7-8503e9a378be">
+  <img src="https://wakatime.com/badge/user/1e58ad75-97b9-42c5-9eb7-8503e9a378be.svg" alt="WakaTime Stats" />
+</a>
+
+<br>
+
+### 🏆 GitHub Trophy Case
 <div align='center'>
-  
-### GitHub trophy by luliqwerty
-<img src="https://github-profile-trophy.vercel.app/?username=luliqwerty" alt="luliqwerty's GitHub trophy" time="luliqwerty's GitHub trophy" />
-
-### GitHub contribution statistics for luliqwerty
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=luliqwerty&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="luliqwerty's GitHub Contribution statistics" time="luliqwerty's GitHub Contribution statistics" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luliqwerty&layout=compact&theme=buefy&hide_border=true" alt="luliqwerty's Most Used Languages" time="luliqwerty's Most Used Languages" /> |
-  | ------------- | ------------- |
-
-### GitHub visitor statistics for luliqwerty
-<img align="center" src="https://count.getloli.com/get/@luliqwerty?theme=rule34" alt="luliqwerty's GitHub Visitor statistics" time="luliqwerty's GitHub Visitor statistics" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=luliqwerty&theme=radical" alt="luliqwerty's GitHub Trophy" />
 </div>
+
+<br>
+
+### 📈 Visitor Statistics
+<div align='center'>
+  <img src="https://count.getloli.com/get/@luliqwerty?theme=rule34" alt="GitHub Visitor Stats" />
+</div>
+
+<br>
+
+### 📬 Let's Connect
+- **Interested in Java backend roles.** Open to internships and full-time positions.
+- Feel free to check out my repositories for code samples and projects!
